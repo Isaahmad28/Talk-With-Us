@@ -1,9 +1,9 @@
 # Talk With Us
-Simple chat app with 1 room developed with React Js and Firebase
+Simple chat app with 1 room developed with React Js and Firebase.
 This project was hosted on firebase  [Try it](https://chatapp-6a4a1.web.app/).
 # Getting Started with Create React App
 
-.This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
